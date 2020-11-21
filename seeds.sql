@@ -1,3 +1,4 @@
+DROP DATA
 USE employee_db;
 
 INSERT INTO department (name) VALUES ('Administration');
